@@ -1,6 +1,3 @@
-# WebbyLab's Starter App for Node.JS projects 
-
-![logo](./docs/images/logo.jpg)
 
 1. Based on ideas of [Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html) and [DDD](https://dddcommunity.org/)
 2. Battle tested
